@@ -1,3 +1,6 @@
+
+Reflection Questions
+
 1. How did you dynamically create and append new elements to the DOM?
    I used document.createElement() to create the product item, its text, and the Remove button. Then I used appendChild() to add them to the cart.
 2. What steps did you take to ensure accurate updates to the total price?
